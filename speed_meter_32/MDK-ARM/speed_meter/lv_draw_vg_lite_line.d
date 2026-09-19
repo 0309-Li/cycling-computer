@@ -1,0 +1,15 @@
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/lv_draw_vg_lite_line.c
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/../../misc/lv_area_private.h
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/../../misc/lv_area.h
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/../../misc/../lv_conf_internal.h
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/../../misc/../lv_conf_kconfig.h
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/lv_conf.h
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/../../misc/lv_types.h
+speed_meter\lv_draw_vg_lite_line.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stdint.h
+speed_meter\lv_draw_vg_lite_line.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stddef.h
+speed_meter\lv_draw_vg_lite_line.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+speed_meter\lv_draw_vg_lite_line.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\inttypes.h
+speed_meter\lv_draw_vg_lite_line.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\limits.h
+speed_meter\lv_draw_vg_lite_line.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/../../misc/lv_math.h
+speed_meter\lv_draw_vg_lite_line.o: ../Middlewares/lvgl/src/draw/vg_lite/lv_draw_vg_lite.h

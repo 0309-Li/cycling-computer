@@ -1,0 +1,12 @@
+speed_meter\lv_xml_update.o: ../Middlewares/lvgl/src/others/xml/lv_xml_update.c
+speed_meter\lv_xml_update.o: ../Middlewares/lvgl/src/others/xml/lv_xml_update.h
+speed_meter\lv_xml_update.o: ../Middlewares/lvgl/src/others/xml/../../misc/lv_types.h
+speed_meter\lv_xml_update.o: ../Middlewares/lvgl/src/others/xml/../../misc/../lv_conf_internal.h
+speed_meter\lv_xml_update.o: ../Middlewares/lvgl/src/others/xml/../../misc/../lv_conf_kconfig.h
+speed_meter\lv_xml_update.o: ../Middlewares/lvgl/lv_conf.h
+speed_meter\lv_xml_update.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stdint.h
+speed_meter\lv_xml_update.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stddef.h
+speed_meter\lv_xml_update.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+speed_meter\lv_xml_update.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\inttypes.h
+speed_meter\lv_xml_update.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\limits.h
+speed_meter\lv_xml_update.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stdarg.h

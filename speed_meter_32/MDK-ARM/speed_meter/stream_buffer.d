@@ -1,0 +1,14 @@
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+speed_meter\stream_buffer.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stdint.h
+speed_meter\stream_buffer.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\string.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+speed_meter\stream_buffer.o: E:\ShangGuiGu\tool_software\keil\ARM\ARMCC\Bin\..\include\stddef.h
+speed_meter\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+speed_meter\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
